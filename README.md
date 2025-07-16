@@ -30,7 +30,7 @@ An end-to-end data analytics project focused on analyzing customer financial beh
 ## 📊 Tools & Technologies
 
 - **SQL** – Data transformation  
-- **Python** – `Pandas`, `Seaborn` for EDA  
+- **Python** – `Panda`, `Seaborn` for EDA  
 - **Power BI** – Visualization & interactivity  
 - **DAX** – Custom KPIs and dynamic calculations  
 - **Excel** – Exported and cleaned data
